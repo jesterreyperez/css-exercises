@@ -1,0 +1,23 @@
+/* Styles for all odd-numbered p elements */
+.odd {
+    background-color: lightcoral; /* Light red/pink background */
+    font-family: Verdana, "DejaVu Sans", sans-serif; /* Font family */
+}
+
+/* Style for the second element (id="number-two") */
+#number-two {
+    color: blue;
+    font-size: 36px;
+}
+
+/* Style for the third element: Add font size of 24px */
+.odd.font-size {
+    font-size: 24px;
+}
+
+/* Style for the fourth element (id="number-4") */
+#number-4 {
+    background-color: lightgreen; /* Light green background */
+    font-size: 24px;
+    font-weight: bold; /* Bold text */
+}
