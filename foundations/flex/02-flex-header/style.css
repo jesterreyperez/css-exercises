@@ -1,6 +1,12 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
+  /* Make the header a flex container */
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
 }
 
 .logo {
