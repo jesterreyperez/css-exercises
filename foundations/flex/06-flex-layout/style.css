@@ -42,13 +42,8 @@ ul {
   padding: 10px; /* Add padding around the content */
 }
 
-/* Align left links horizontally with space between items */
-.left-links {
-  display: flex;
-  gap: 20px; /* Space between the list items */
-}
-
-/* Align right links horizontally with space between items */
+/* Align left links and right links horizontally with space between items */
+.left-links,
 .right-links {
   display: flex;
   gap: 20px; /* Space between the list items */
