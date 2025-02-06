@@ -19,9 +19,9 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
-  padding: 12px 24px;
+  padding: 8px 16px;
   font-size: 16px;
-  margin: 20px;
+  margin: 15px; /* Add margin arround the button */
 }
 
 input {
