@@ -70,4 +70,6 @@ a {
 /* Set a light background color for the footer */
 .footer {
   background-color: #eeeeee; /* Light grey background for the footer */
+  padding-bottom: 5px; /* Add padding to the bottom of footer */
+  margin-bottom: -20px; /* Remove margin from bottom of footer */
 }
