@@ -36,6 +36,11 @@ ul {
   padding-left: 0; /* Removes default left padding */
 }
 
+a {
+  text-decoration: none; /* Remove underline frome all links */
+  color: dimgray; /* Set color for links */
+}
+
 /* Space items evenly and align to the top */
 .header,
 .footer {
